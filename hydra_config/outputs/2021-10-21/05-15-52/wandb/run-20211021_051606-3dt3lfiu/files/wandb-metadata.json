@@ -1,0 +1,17 @@
+{
+    "os": "Windows-10-10.0.19043-SP0",
+    "python": "3.8.12",
+    "heartbeatAt": "2021-10-21T12:16:09.383989",
+    "startedAt": "2021-10-21T12:16:06.486863",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 1650",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "train.py",
+    "host": "DESKTOP-7TR37QJ",
+    "username": "vikram",
+    "executable": "C:\\Users\\vikram\\anaconda3\\envs\\project-setup\\python.exe"
+}

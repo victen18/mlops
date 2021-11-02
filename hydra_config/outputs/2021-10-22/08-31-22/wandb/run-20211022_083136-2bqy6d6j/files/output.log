@@ -1,0 +1,50 @@
+
+
+
+
+
+
+
+
+
+Epoch 0: 100%|█| 37/37 [00:15<00:00,  2.34it/s, loss=0.659, v_num=6d6j, valid/loss_epoch=0.744, valid/acc=0.352, valid/
+
+
+
+
+
+
+
+Epoch 1:  97%|▉| 36/37 [00:15<00:00,  2.30it/s, loss=0.612, v_num=6d6j, valid/loss_epoch=0.646, valid/acc=0.656, valid/
+
+
+
+
+
+
+
+
+
+Epoch 2:  97%|▉| 36/37 [00:16<00:00,  2.19it/s, loss=0.61, v_num=6d6j, valid/loss_epoch=0.645, valid/acc=0.656, valid/p
+
+
+
+
+
+
+
+
+
+
+Epoch 3:  97%|▉| 36/37 [00:18<00:00,  1.99it/s, loss=0.611, v_num=6d6j, valid/loss_epoch=0.651, valid/acc=0.656, valid/
+
+
+
+
+
+
+
+
+
+Epoch 4:  97%|▉| 36/37 [00:17<00:00,  2.08it/s, loss=0.601, v_num=6d6j, valid/loss_epoch=0.651, valid/acc=0.656, valid/
+

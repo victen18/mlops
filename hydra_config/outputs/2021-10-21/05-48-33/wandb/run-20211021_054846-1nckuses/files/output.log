@@ -1,0 +1,67 @@
+  | Name                   | Type                          | Params
+-------------------------------------------------------------------------
+0 | bert                   | BertForSequenceClassification | 4.4 M
+1 | train_accuracy_metric  | Accuracy                      | 0
+2 | val_accuracy_metric    | Accuracy                      | 0
+3 | f1_metric              | F1                            | 0
+4 | precision_macro_metric | Precision                     | 0
+5 | recall_macro_metric    | Recall                        | 0
+6 | precision_micro_metric | Precision                     | 0
+7 | recall_micro_metric    | Recall                        | 0
+-------------------------------------------------------------------------
+4.4 M     Trainable params
+0         Non-trainable params
+4.4 M     Total params
+17.545    Total estimated model params size (MB)
+
+
+
+
+
+
+
+
+Epoch 0:  95%|▉| 35/37 [00:16<00:00,  2.14it/s, loss=0.623, v_num=uses, valid/loss_epoch=0.665, valid/acc=0.648, valid/precision_macro=0.324, valid/recall_macro=0.500, valid/precision_micro=0.648, valid/recall_
+
+
+
+
+
+
+
+
+
+
+Epoch 1:  97%|▉| 36/37 [00:17<00:00,  2.09it/s, loss=0.623, v_num=uses, valid/loss_epoch=0.647, valid/acc=0.656, valid/precision_macro=0.328, valid/recall_macro=0.500, valid/precision_micro=0.656, valid/recall_
+
+
+
+
+
+
+
+
+
+Epoch 2:  97%|▉| 36/37 [00:17<00:00,  2.00it/s, loss=0.625, v_num=uses, valid/loss_epoch=0.649, valid/acc=0.656, valid/precision_macro=0.328, valid/recall_macro=0.500, valid/precision_micro=0.656, valid/recall_
+
+
+
+
+
+
+
+
+
+
+Epoch 3:  97%|▉| 36/37 [00:18<00:00,  1.97it/s, loss=0.61, v_num=uses, valid/loss_epoch=0.646, valid/acc=0.656, valid/precision_macro=0.328, valid/recall_macro=0.500, valid/precision_micro=0.656, valid/recall_m
+
+
+
+
+
+
+
+
+Epoch 4:  92%|▉| 34/37 [00:17<00:01,  1.95it/s, loss=0.61, v_num=uses, valid/loss_epoch=0.653, valid/acc=0.656, valid/precision_macro=0.328, valid/recall_macro=0.500, valid/precision_micro=0.656, valid/recall_m
+
+

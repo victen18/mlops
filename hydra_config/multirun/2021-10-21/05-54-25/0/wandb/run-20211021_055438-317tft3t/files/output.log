@@ -1,0 +1,12 @@
+
+
+
+
+
+
+
+
+
+Epoch 0:  95%|▉| 35/37 [00:16<00:00,  2.14it/s, loss=0.652, v_num=ft3t, valid/loss_epoch=0.715, valid/acc=0.328, valid/precision_macro=0.288, valid/recall_macro=0.450, valid/precision_micro=0.328, valid/recall_
+
+

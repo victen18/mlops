@@ -1,0 +1,28 @@
+
+
+
+
+
+
+
+
+
+
+
+Epoch 0: 100%|█| 37/37 [00:21<00:00,  1.76it/s, loss=0.643, v_num=30wn, valid/loss_epoch=0.710, valid/acc=0.352, valid/precision_macro=0.176, valid/recall_macro=0.500, valid/precision_micro=0.352, valid/recall_
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 1:  97%|▉| 36/37 [00:21<00:00,  1.70it/s, loss=0.608, v_num=30wn, valid/loss_epoch=0.643, valid/acc=0.656, valid/precision_macro=0.328, valid/recall_macro=0.500, valid/precision_micro=0.656, valid/recall_
+
+
+Epoch 1: 100%|█| 37/37 [00:24<00:00,  1.50it/s, loss=0.608, v_num=30wn, valid/loss_epoch=0.647, valid/acc=0.656, valid/precision_macro=0.328, valid/recall_macro=0.500, valid/precision_micro=0.656, valid/recall_
