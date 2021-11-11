@@ -1,6 +1,4 @@
 [core]
-    remote = storage
-['remote "storage"']
-    url = gdrive://1zlyaK-925ICKddsMiHIBnhWyEabeRn38
-    gdrive_use_service_account = true
-    gdrive_service_account_json_file_path = ../github_actions/creds.json
+    remote = model-store
+['remote "model-store"']
+    url = s3://models-dvc-vikram/trained_models/
