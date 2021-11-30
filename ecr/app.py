@@ -1,8 +1,10 @@
 from fastapi import FastAPI
 from inference_onnx import ColaONNXPredictor
+
 app = FastAPI(title="MLOps Basics App")
 
 predictor = ColaONNXPredictor("./models/model.onnx")
+
 
 @app.get("/")
 async def home_page():
@@ -11,5 +13,5 @@ async def home_page():
 
 @app.get("/predict")
 async def get_prediction(text: str):
-    result =  predictor.predict(text)
+    result = predictor.predict(text)
     return result
